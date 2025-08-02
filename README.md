@@ -11,40 +11,54 @@
 
 As a Software Engineer, I am currently working at Phoenix Digital, UK. I have accumulated over 11+ years of experience in this field and possess expertise in programming languages including C++, Java. Additionally, I am proficient in PHP, MySQL, and MongoDB. I have a passion for continuously learning and staying updated with emerging technologies. I am a die-hard Linux fan and open-source enthusiast, always exploring and building within the Linux ecosystem. Available for remote opportunities.
 
-- 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~0195159b2d076dcbc4) and [Linkedin](https://www.linkedin.com/in/kabirpofficial/)
-- 📚 Currently learning about [Concurrency and Multithreading]([https://www.upwork.com/freelancers/~0195159b2d076dcbc4](https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query?view=asallproducts-allversions))
-<hr>
+🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~0195159b2d076dcbc4) and [LinkedIn](https://www.linkedin.com/in/kabirpofficial/)  
+🗓️ Book a [Consultation on Upwork](https://www.upwork.com/services/product/development-it-md-kabir-1482729912155119616?ref=project_share) to plan your next project.  
+📚 Currently learning about [Concurrency and Multithreading](https://learn.microsoft.com/en-us/dotnet/standard/threading/overview-of-synchronization-primitives)
 
-<h4>💬 Programming Lang:</h4>
+---
+
+<h4>💬 Programming Languages</h4>
 
 ![C++](https://img.shields.io/badge/-C++-FF7F50?&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?&logo=Java-lang&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-9B59B6?&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-9B59B6?&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
-<h4>💬 Web Prorgamming Skills:</h4>
+<h4>💬 Web Development Stack</h4>
 
-![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-00C58E?logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-<h4>💬 Database Skill:</h4>
+<h4>💬 Databases</h4>
 
-![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-<h4>💬 Some of the technologies, I have worked with:</h4>
+<h4>💬 Cloud & DevOps</h4>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=ffffff)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)](https://github.com/microsoft/vscode)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000)
+
+<h4>💬 Tools & IDEs</h4>
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
 
 <h4>💬 Mobile Projects:</h4>
 
