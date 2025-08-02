@@ -21,7 +21,6 @@ As a Software Engineer, I am currently working at Phoenix Digital, UK. I have ac
 
 ![C++](https://img.shields.io/badge/-C++-FF7F50?&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-9B59B6?&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
 <h4>💬 Web Development Stack</h4>
