@@ -14,7 +14,7 @@ As a Software Engineer, I am currently working at Phoenix Digital, UK. I have ac
 
 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~0195159b2d076dcbc4) and [LinkedIn](https://www.linkedin.com/in/kabirpofficial/)  
 🗓️ Book a [Consultation on Upwork](https://www.upwork.com/services/product/development-it-md-kabir-1482729912155119616?ref=project_share) to plan your next project.  
-📚 Currently learning about [Concurrency and Multithreading](https://learn.microsoft.com/en-us/dotnet/standard/threading/overview-of-synchronization-primitives)
+📚 Currently learning about performance optimization, concurrent rendering, and React Server Components
 
 ---
 
