@@ -17,7 +17,6 @@ Open to remote backend or full-stack roles. I have accumulated over 11+ years of
 📚 Currently learning about performance optimization, concurrent rendering, and React Server Components
 
 ---
-
 <h4>💬 Programming Languages</h4>
 
 ![C++](https://img.shields.io/badge/-C++-FF7F50?&logo=c%2b%2b&logoColor=white)
@@ -36,21 +35,28 @@ Open to remote backend or full-stack roles. I have accumulated over 11+ years of
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-00C58E?logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 <h4>💬 Databases</h4>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 <h4>💬 Cloud & DevOps</h4>
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+![Linux Server](https://img.shields.io/badge/-Linux_Server-FCC624?logo=linux&logoColor=000000)
+![DevOps](https://img.shields.io/badge/-DevOps-0A66C2?logo=azure-devops&logoColor=white)
 
 <h4>💬 Tools & IDEs</h4>
 
